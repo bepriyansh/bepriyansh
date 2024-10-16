@@ -8,7 +8,7 @@
 
 - ### 🖥️ Visit my [Portfolio](https://ipriyansh.vercel.app/)
   
-- ### 📄 Take a look at my [resume](https://drive.google.com/file/d/1wLmb5Bzg-8974rwmIwF2wuzGuTNYBIjI/view?usp=sharing) 
+- ### 📄 Take a look at my [resume](https://drive.google.com/file/d/1gOZnUDMsIr9WSvwseUMYEWZ2T6j7TPeE/view) 
 
 <br/>
 
